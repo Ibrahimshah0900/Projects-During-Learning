@@ -5,7 +5,6 @@ This project is a **Movie Recommendation System** built in Python. It allows use
 ## Features
 - Reads movie data from a JSON file.
 - Recommends movies based on user-selected genres.
-- Provides sorting options by rating or release year.
 - User-friendly interface with error handling for input.
 
 ## Technologies Used
