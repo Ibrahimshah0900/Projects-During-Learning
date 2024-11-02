@@ -1,0 +1,46 @@
+{
+    "movies": [
+        {
+            "title": "Inception",
+            "genre": "Sci-Fi",
+            "rating": 8.8,
+            "release_year": 2010
+        },
+        {
+            "title": "The Godfather",
+            "genre": "Crime",
+            "rating": 9.2,
+            "release_year": 1972
+        },
+        {
+            "title": "Pulp Fiction",
+            "genre": "Drama",
+            "rating": 8.9,
+            "release_year": 1994
+        },
+        {
+            "title": "The Dark Knight",
+            "genre": "Action",
+            "rating": 9.0,
+            "release_year": 2008
+        },
+        {
+            "title": "Harry Potter",
+            "genre": "Fantasy",
+            "rating": 9.5,
+            "release_year": 2008
+        },
+        {
+            "title": "Kung Fu Panda",
+            "genre": "Animation",
+            "rating": 8.8,
+            "release_year": 2000
+        },
+        {
+            "title": "Hera Pheri",
+            "genre": "Comedy",
+            "rating": 9.3,
+            "release_year": 2000
+        }
+    ]
+}
