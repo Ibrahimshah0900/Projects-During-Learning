@@ -63,8 +63,3 @@ print(delete_user(file_path, 'john_doe'))
 - The script will automatically create `users.json` if it does not exist.
 - You can add, update, delete, or query users by calling the respective functions.
 
-## Future Improvements
-
-For simplicity, this project does not include advanced features. Future additions could include password management, data encryption, and user authentication.
-
-Feel free to customize this README as needed for your GitHub repository!
